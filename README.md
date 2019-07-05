@@ -14,7 +14,7 @@
 ```
 
 ## ISSUES
-   
+  * Got an OptionsRequest when uploading the directory to the S3 bucket
 
 ## CHANGELOG
    * Lab 28: A Static Frontend for TaskMaster
